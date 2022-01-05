@@ -17,7 +17,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
 <img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="next" width="70" height="70"/>
-<img src="https://react-query.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" alt="react-query" width="70" height="70"/>
+<img src="https://camo.githubusercontent.com/88a0a0e7271c20473dcea78f99c6e8c419ebcbe5e1a62229b2b3fae336825175/68747470733a2f2f72656163742d71756572792e74616e737461636b2e636f6d2f5f6e6578742f7374617469632f696d616765732f656d626c656d2d6c696768742d36323830383036363066646462333537383766663663373765393763613433652e737667" alt="react-query" width="70" height="70"/>
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/281/square_480/Fauna_Logo_blue.png" alt="fauna-db" width="70" height="70"/>
 
 </p>
