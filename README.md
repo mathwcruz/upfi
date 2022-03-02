@@ -13,13 +13,12 @@
 <br>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra-ui" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" alt="next" width="70" height="70"/>
-<img src="https://camo.githubusercontent.com/88a0a0e7271c20473dcea78f99c6e8c419ebcbe5e1a62229b2b3fae336825175/68747470733a2f2f72656163742d71756572792e74616e737461636b2e636f6d2f5f6e6578742f7374617469632f696d616765732f656d626c656d2d6c696768742d36323830383036363066646462333537383766663663373765393763613433652e737667" alt="react-query" width="70" height="70"/>
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/281/square_480/Fauna_Logo_blue.png" alt="fauna-db" width="70" height="70"/>
-
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/chakra_ui_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvY2hha3JhX3VpX2ljb24ucG5nIiwiaWF0IjoxNjQ2MjQ3MjU2LCJleHAiOjE5NjE2MDcyNTZ9.hgoF4Kc7gtAa_DfbQbaTyLlBScF2OqRLnpP2LmIT_h0" alt="chakra-ui" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_query_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfcXVlcnlfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDc4OTEsImV4cCI6MTk2MTYwNzg5MX0.AV6k9aN-s177jJUo_JLUi5GMONNOlP_Xg4ASeIKFeUo" alt="react-query" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/fauna_db_icon.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvZmF1bmFfZGJfaWNvbi5wbmciLCJpYXQiOjE2NDYyNDc5MTgsImV4cCI6MTk2MTYwNzkxOH0.MZ4sj-UYUubjrJvkM5GFhpPHK_PXKx13vViZXQ1Vj-c" alt="fauna-db" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/react_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvcmVhY3RfaWNvbi5zdmciLCJpYXQiOjE2NDYyNDY1NjEsImV4cCI6MTk2MTYwNjU2MX0.rEGrv6fy9osG8okJAocY2LAe92rygmldkoNGTPggmvA" alt="react" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/next_js_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvbmV4dF9qc19pY29uLnN2ZyIsImlhdCI6MTY0NjI0Njk3OSwiZXhwIjoxOTYxNjA2OTc5fQ.P8SXCjnPcBYB-hHPvvvXYZ4wNA3YzLMDNeNhPfy0G0U" alt="next" width="70" height="70"/>
+<img src="https://xnrzwkuslogyvxcfkyyh.supabase.in/storage/v1/object/sign/projects-technologies-icons/typescript_icon.svg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwcm9qZWN0cy10ZWNobm9sb2dpZXMtaWNvbnMvdHlwZXNjcmlwdF9pY29uLnN2ZyIsImlhdCI6MTY0NjI0NjcyNiwiZXhwIjoxOTYxNjA2NzI2fQ.W404dqHwT_A4lfmg7st0cyj1aJxJH3PZtCnux_iVv_s" alt="typescript" width="70" height="70"/>
 </p>
 
 <br>
