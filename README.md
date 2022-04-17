@@ -2,11 +2,11 @@
   <img src="./public/logo.svg" alt="Logo do upfi" width="300">
 </h1>
 
-## **<h2 align="center">Front end application  💻</h2>**
+<h2 align="center">Front end application  💻</h2>
 
-## <p><h2 align="center">An app for uploading images</h2> </p>
+<h2 align="center">An app for uploading images</h2>
 
-## <p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
+<p align="center"> <img src="https://github.com/mathwcruz/next-auth/blob/main/.github/Ignite.png" width="1400px"/> </p>
 
 ## :rocket: Technologies used:
 
@@ -44,10 +44,8 @@ To run the application on the web, follow the instructions from your terminal:
  <br />
  <sub><b>Matheus da Cruz</b></sub></a> <a href="https://app.rocketseat.com.br/me/matheus-da-cruz-frontend" title="Rocketseat">  🚀</a>
 
-Desenvolvido por Matheus da Cruz 😊
-
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cruz-frontend/)](https://www.linkedin.com/in/matheus-cruz-frontend/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheuswachcruz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuswachcruz@gmail.com)](mailto:matheuswachcruz@gmail.com)
 <br>
 
-### <p> <h2 align="center">Another application by Matheus da Cruz 👨‍💻 </h2> </p>
+<h2 align="center">Another application developed by Matheus da Cruz 👨‍💻 </h2>
